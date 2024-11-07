@@ -25,3 +25,5 @@ Plus, if you are new to soldering PCBs and only got soldering iron, try my alter
 
 This is called CheapTracker-v2m, 'm' here stands for 'modular' meaning only direct-insertion-packaging modules (D1Mini, GY-BMI160, GY-273 and TP4056 charging board), resistors and diodes are mounted.
 Please note that this alternative version is sitll pending its feasibility, try at your own risk. It'll be updated on OSHCHub when fully tested.
+
+While QMC5883L in boards shown above is optional, if you want your boards only work with BMI160 (6-AXIS), leave QMC5883L chip or GY273 Module empty.
